@@ -26,4 +26,5 @@
 
 ### main.py
 각 파일에서 생성한 모든 기능들을 실현
-<img width="80%" src="minipro-main-–-main.py-2022-09-13-17-02-12 (1).gif"/>
+![minipro-main-–-main py-2022-09-13-17-02-12 (1)](https://user-images.githubusercontent.com/108312150/189850117-44327c22-abf9-46a2-99fc-9a7bab77f48d.gif)
+
