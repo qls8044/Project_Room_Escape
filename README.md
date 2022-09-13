@@ -26,4 +26,4 @@
 
 ### main.py
 각 파일에서 생성한 모든 기능들을 실현
-![video]https://user-images.githubusercontent.com/108312150/189847751-f6786767-1f9d-45e0-8bee-2ded6dedf508.mp4
+![Uploading minipro-main-–-main.py-2022-09-13-17-02-12 (1).gif…]()
