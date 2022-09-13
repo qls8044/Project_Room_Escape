@@ -26,4 +26,4 @@
 
 ### main.py
 각 파일에서 생성한 모든 기능들을 실현
-![Uploading minipro-main-–-main.py-2022-09-13-17-02-12 (1).gif…]()
+<img width="80%" src="minipro-main-–-main.py-2022-09-13-17-02-12 (1).gif"/>
