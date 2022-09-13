@@ -25,4 +25,5 @@
 ![image](https://user-images.githubusercontent.com/108312150/189843898-fd14cbf7-d49c-41ae-b10a-204299768a28.png)
 
 ### main.py
-각 파일에서 생성만 모든 기능들을 
+각 파일에서 생성한 모든 기능들을 실현
+https://user-images.githubusercontent.com/108312150/189847751-f6786767-1f9d-45e0-8bee-2ded6dedf508.mp4
